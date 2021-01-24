@@ -13,5 +13,5 @@ A bit about me:
 - `2013`: Started working for GoodTime, based in Palo Alto.
 - `2011`: Started a company: Backbeam. A MBaaS.
 - `2009`: Started a company: MasterBranch. Received private funding.
-- `2008`: Participated in Google Summer of Code.
-- `2007`: Lived in Madrid. Finished my degree.
+- `2008`: Participated in Google Summer of Code. Finished my degree.
+- `2007`: Lived in Madrid. First fulltime job.
