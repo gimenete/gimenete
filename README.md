@@ -2,7 +2,7 @@
 
 I'm a GitHub Actions Engineer. I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/gimenete). DMs are open.
 
-I move millions of records, pixels, or datapoints with my code. But more importantly I work with hundreds of engineers to develop tools used by millions.
+I move millions of records, pixels, or datapoints with my code. But more importantly I work with hundreds of engineers, managers and users to develop products used by millions.
 
 A bit about me:
 
