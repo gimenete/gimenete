@@ -6,6 +6,7 @@ I move millions of records, pixels, or datapoints with my code. But more importa
 
 A bit about me:
 
+- `2022`: Joined xata.io as Principal Software Engineer.
 - `2021`: Promoted to Staff Software Engineer.
 - `2020`: Second child.
 - `2019`: Joined [GitHub Actions](https://github.com/features/actions).
