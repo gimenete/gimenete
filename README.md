@@ -4,7 +4,8 @@ I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/g
 
 A bit about me:
 
-- `2022`: Joined [xata.io](https://xata.io) as Principal Software Engineer.
+- `2022`: Joined [railway.app](https://railway.app).
+- `2022`: Joined [xata.io](https://xata.io).
 - `2021`: Promoted to Staff Software Engineer.
 - `2020`: Second child.
 - `2019`: Joined [GitHub Actions](https://github.com/features/actions).
