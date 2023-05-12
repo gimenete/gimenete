@@ -4,7 +4,8 @@ I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/g
 
 A bit about me:
 
-- `2022`: Joined [railway.app](https://railway.app).
+- `2023`: Launched [GroundControl](https://groundcontrol.sh/).
+- `2023`: Joined [railway.app](https://railway.app).
 - `2022`: Joined [xata.io](https://xata.io).
 - `2021`: Promoted to Staff Software Engineer.
 - `2020`: Second child.
