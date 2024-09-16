@@ -4,7 +4,7 @@ I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/g
 
 A bit about me:
 
-- `2024`: Joined Stripe.
+- `2024`: Joined Stripe. Started [GitHero.app](https://githero.app/).
 - `2023`: Launched [GroundControl](https://groundcontrol.sh/).
 - `2023`: Joined [railway.app](https://railway.app).
 - `2022`: Joined [xata.io](https://xata.io).
