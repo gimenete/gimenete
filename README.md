@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/gimenete). DMs are open.
+I live in Saragossa, Spain. You can follow me on [Twitter](https://twitter.com/gimenete) or [BlueSky](https://bsky.app/profile/gimenete.net). DMs are open.
 
 A bit about me:
 
